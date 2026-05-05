@@ -1,4 +1,12 @@
-﻿## [REQ-ID] : User Story Title
+﻿---
+name: User Story Template
+about: Use this template for documenting functional requirements and tracking tasks.
+title: '[REQ-ID]: '
+labels: enhancement, documentation
+assignees: ''
+---
+
+## [REQ-ID] : User Story Title
 **Related SRS Section:** [e.g., Section 3.2.1]
 
 ### 1. User Story
